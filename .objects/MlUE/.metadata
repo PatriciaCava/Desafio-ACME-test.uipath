@@ -1,0 +1,11 @@
+﻿{
+  "Id": "MlUEbabPIUyXiF32Iv5i_g",
+  "Reference": "slihczOrKE-bmShVHfMyLw/MlUEbabPIUyXiF32Iv5i_g",
+  "Name": "Navegador",
+  "Type": "App",
+  "Created": "2022-03-11T17:44:32.5031373Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-11T17:44:32.5031373Z"
+}
